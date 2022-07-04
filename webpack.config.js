@@ -56,7 +56,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'vicsantizo - portfolio',
+            title: 'mini-projects',
             filename: 'index.html',
             template: 'src/template.html',
         })
